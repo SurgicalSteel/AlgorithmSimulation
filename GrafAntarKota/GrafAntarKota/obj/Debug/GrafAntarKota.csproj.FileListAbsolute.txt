@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\bin\Debug\GrafAntarKota.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\bin\Debug\GrafAntarKota.exe
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\bin\Debug\GrafAntarKota.pdb
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\obj\Debug\GrafAntarKota.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\obj\Debug\GrafAntarKota.exe
+c:\users\user\documents\visual studio 2013\Projects\GrafAntarKota\GrafAntarKota\obj\Debug\GrafAntarKota.pdb
