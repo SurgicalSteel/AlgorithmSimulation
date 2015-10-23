@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//dedicated to Melinda Orientanti
 //get a life bray, kelamaan di depan IDE tuh ngga sehat
 //tidur woy...
 
