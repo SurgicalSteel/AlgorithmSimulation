@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1436536845 source:d:\dataku\it telkom\iseng\c++\eightnumberspuzzle\eightnumberspuzzle\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<algorithm>
+	<stdio.h>
+	<windows.h>
+
