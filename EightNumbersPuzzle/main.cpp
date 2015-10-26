@@ -37,33 +37,13 @@ class board
         return valid;
     }
     bool upable()
-    {
-        if(getposition()>3)
-        {return true;}
-        else
-        {return false;}
-    }
+    {return getposition()>3;}
     bool downable()
-    {
-        if(getposition()<7)
-        {return true;}
-        else
-        {return false;}
-    }
+    {return getposition()<7;}
     bool leftable()
-    {
-        if((getposition()%3)!=1)
-        {return true;}
-        else
-        {return false;}
-    }
+    {return ((getposition()%3)!=1);}
     bool rightable()
-    {
-        if((getposition()%3)!=0)
-        {return true;}
-        else
-        {return false;}
-    }
+    {return ((getposition()%3)!=0);}
     bool completed()
     {
         bool valid=false;
