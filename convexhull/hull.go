@@ -45,6 +45,14 @@ func matchTest(result []Point) bool {
 	}
 	sort.Sort(LeftMost(result))
 	sort.Sort(LeftMost(checkerPoints))
+
+	for i := 0; i < len(result); i++ {
+		for j := 0; j < len(checkerPoints); j++ {
+			if !(result[i].X == checkerPoints[i].X && result[i].Y == checkerPoints[i].Y) {
+				return false
+			}
+		}
+	}
 	return true
 }
 
