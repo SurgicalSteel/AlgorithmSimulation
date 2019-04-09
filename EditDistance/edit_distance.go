@@ -1,16 +1,17 @@
-package edit_distance
+//Package editdistance is a package which contains edit distance calculation utility
+package editdistance
 
 import (
 	"errors"
 )
 
-// Calculate the edit distance of two given strings. Returns the distance and its error (mostly related to the parameter)
+//CalculateEditDistance Calculate the edit distance of two given strings. Returns the distance and its error (mostly related to the parameter)
 func CalculateEditDistance(sa, sb string) (int, error) {
-	var count int = 0
+	count := 0
 	la := len(sa)
 	lb := len(sb)
 	if la == 0 || lb == 0 {
-		return -1, errors.New("One or both string are empty.")
+		return -1, errors.New("one or both string are empty")
 	}
 	ela := la + 1
 	elb := lb + 1

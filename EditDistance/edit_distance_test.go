@@ -1,4 +1,4 @@
-package edit_distance
+package editdistance
 
 import (
 	"errors"
@@ -19,7 +19,7 @@ func TestCalculateEditDistance(t *testing.T) {
 		wordA:            "banana",
 		wordB:            "",
 		expectedDistance: -1,
-		expectedError:    errors.New("One or both string are empty."),
+		expectedError:    errors.New("one or both string are empty"),
 	}
 	testcases["one-insert-one-delete"] = testcase{
 		wordA:            "banana",
