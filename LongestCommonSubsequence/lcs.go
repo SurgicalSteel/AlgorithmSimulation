@@ -53,17 +53,13 @@ func FindAllLCS(sa, sb string) ([]string, error) {
 			}
 		}
 	}
-	// for ile := 0; ile < len(lcsEnd); ile++ {
-	// 	fmt.Println(lcsEnd[ile].i, lcsEnd[ile].j)
-	// }
-	// fmt.Println()
 
 	//do backtrack for each LCS End to find the common subsequence
 	for ile := 0; ile < len(lcsEnd); ile++ {
 		temporaryResult := ""
-		bx, by := lcsEnd[ile].i, lcsEnd[ile].j //len(sa), len(sb)
+		bx, by := lcsEnd[ile].i, lcsEnd[ile].j
 		reversedSubstring := ""
-		for m[bx][by] > 0 /*bx > 0 && by > 0*/ {
+		for m[bx][by] > 0 {
 			if m[bx][by-1] > m[bx-1][by] {
 				by--
 			} else if m[bx-1][by] > m[bx][by-1] {
@@ -83,9 +79,10 @@ func FindAllLCS(sa, sb string) ([]string, error) {
 		temporaryResult = reverse(reversedSubstring)
 		longestCommonSubsequences = append(longestCommonSubsequences, temporaryResult)
 	}
+	// as we pick all the hightest value LCSEnd, there may contain duplicate LCS (exactly same string)
+	// so we need to remove all duplicate LCS to make sure the subsequences (as result is unique)
 	longestCommonSubsequences = removeDuplicateSubsequence(longestCommonSubsequences)
-	// fmt.Println(longestCommonSubsequences)
-	// printMatrix(m, my, mx)
+
 	return longestCommonSubsequences, nil
 }
 
@@ -121,7 +118,7 @@ func removeDuplicateSubsequence(subsequences []string) []string {
 			subsequenceMap[subsequence] = 1
 		}
 	}
-	for ks, _ := range subsequenceMap {
+	for ks := range subsequenceMap {
 		uniqueSubsequences = append(uniqueSubsequences, ks)
 	}
 	return uniqueSubsequences
