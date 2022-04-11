@@ -1,0 +1,16 @@
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.exe
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.deps.json
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.runtimeconfig.json
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.runtimeconfig.dev.json
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.dll
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\ref\Shoelace Formula.dll
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\bin\Debug\net5.0\Shoelace Formula.pdb
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.csproj.AssemblyReference.cache
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.AssemblyInfoInputs.cache
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.AssemblyInfo.cs
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.csproj.CoreCompileInputs.cache
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.dll
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\ref\Shoelace Formula.dll
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.pdb
+D:\development\Competitive Programming\Shoelace Formula\Shoelace Formula\obj\Debug\net5.0\Shoelace Formula.genruntimeconfig.cache
