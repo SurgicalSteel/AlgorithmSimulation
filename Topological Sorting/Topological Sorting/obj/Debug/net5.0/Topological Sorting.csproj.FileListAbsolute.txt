@@ -1,0 +1,16 @@
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.exe
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.deps.json
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.runtimeconfig.json
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.runtimeconfig.dev.json
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.dll
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\ref\Topological Sorting.dll
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\bin\Debug\net5.0\Topological Sorting.pdb
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.csproj.AssemblyReference.cache
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.AssemblyInfoInputs.cache
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.AssemblyInfo.cs
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.csproj.CoreCompileInputs.cache
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.dll
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\ref\Topological Sorting.dll
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.pdb
+D:\development\Competitive Programming\Topological Sorting\Topological Sorting\obj\Debug\net5.0\Topological Sorting.genruntimeconfig.cache
